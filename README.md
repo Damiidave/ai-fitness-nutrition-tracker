@@ -50,6 +50,3 @@ The AI provides:
 - Build backend API with AWS Lambda
 - Deploy a frontend dashboard
 
-## Author
-
-Dami – Fitness Coach & Aspiring Cloud Engineer
